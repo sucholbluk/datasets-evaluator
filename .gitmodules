@@ -1,0 +1,6 @@
+[submodule "datasets-evaluator-frontend"]
+	path = datasets-evaluator-frontend
+	url = https://github.com/sucholbluk/datasets-evaluator-frontend.git
+[submodule "datasets-evaluator-backend"]
+	path = datasets-evaluator-backend
+	url = https://github.com/sucholbluk/datasets-evaluator-backend.git
